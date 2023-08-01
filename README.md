@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shwanees✨
-- ✨ I’m interested in web development
-- 🌱 I’m currently learning Reactjs and PHP
+- ✨ I’m a Professional Full Stack Web Developer
+- 🌱 I’m currently Working on Reactjs and PHP
 - 📫 How to reach me ... sonishn213@gmail.com
 
 <!---
